@@ -1,0 +1,306 @@
+div, p, span{
+    box-sizing: border-box;
+}
+
+p {
+    margin: 5px 0;
+}
+
+#chat-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding: 5px 15px 5px 15px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:10px;
+    margin: 5px 0;
+    background-color: #BFE9F9;
+}
+
+body {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: #f5fafc;
+}
+
+#switch {
+    cursor: hand;
+    cursor: pointer;
+    height: 32px;
+    width: 32px;
+    position: fixed;
+    right: 15px;
+    top: 15px;
+    z-index: 10;
+    margin: 0;
+    padding: 0;
+    border: none;
+    -webkit-border-radius:16px;
+    -moz-border-radius:16px;
+    border-radius:16px;
+    background: transparent;
+}
+
+#switch:hover {
+    box-shadow: 0 0 2px 2px #a0e7fe;
+}
+
+#chat-container {
+    position: relative;
+    z-index: 5;
+    height: 100%;
+    overflow: hidden;
+    max-width: 970px;
+    padding: 5px;
+    margin: auto;
+}
+
+
+#c-member-container {
+    min-width: 240px;
+    margin: 5px;
+}
+
+
+
+
+
+#c-main-container {
+    padding: 5px;
+    margin: 5px;
+}
+
+#c-input-container {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+    min-height: 60px;
+    padding: 5px;
+    background-color: #f5fafc;
+}
+
+@media screen and (min-width: 768px) {
+    #switch {
+        display: none;
+    }
+
+    #chat-container {
+        overflow: hidden;
+    }
+
+    #c-member-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        overflow-y: auto;
+        z-index: 100;
+        width: 240px;
+    }
+    #c-member-container li:hover{
+        background-color: #C7EDFC;
+    }
+
+    #c-main-container {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 75px;
+        z-index: 100;
+        overflow-y: auto;
+        left: 245px;
+    }
+
+    #c-member-container li{
+        background-color: #C0E0F0;
+    }
+
+    #c-main-container li:hover {
+        background-color: #a0e7fe;
+    }
+
+    #c-input-container {
+        max-width: 720px;
+        margin: 0 auto;
+        left: 245px;
+    }
+
+    li .edit, li .delete {
+        opacity: 0.5;
+    }
+
+    li:hover .edit, li:hover .delete {
+        opacity: 1;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #switch {
+        display: block;
+    }
+
+    #chat-container {
+        overflow-y: auto;
+        overflow-x: hidden;
+        width: 100%;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 75px;
+    }
+
+    #c-member-container {
+        display: none;
+        position: relative;
+        overflow: hidden;
+        padding: 10px;
+        z-index: 10;
+    }
+
+    #c-member-container li{
+        background-color: #C7EDFC;
+    }
+
+    #c-main-container {
+        position: relative;
+    }
+
+    #c-input-container {
+        left: 0;
+    }
+
+    #user-container .edit {
+        margin-right: 25px;
+    }
+}
+
+
+
+#msg-list {
+    font-family: Slack-Lato,appleLogo,sans-serif;
+    color: #2c2d30;
+    font-size: .9375rem;
+    line-height: 1.375rem;
+}
+
+#user-input {
+    position: relative;
+    z-index: 20;
+    margin: 0;
+}
+
+
+#user-input, #editor {
+    border: 2px solid #E0E0E0;
+    width: 100%;
+    height: 60px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+.user-name, .time {
+    padding-top: 5px;
+    line-height: 32px;
+}
+
+.time {
+    font-size:0.7em;
+    color: #333;
+    margin-left: 10px;
+}
+
+.user-name {
+    font-weight: 900;
+    color: #2c2d30!important;
+
+}
+
+.edit, .delete {
+    height: 32px;
+    width: 32px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    float: right;
+    cursor: hand;
+    cursor: pointer;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+
+.edit:hover, .delete:hover {
+    border: 1px solid #E0E0E0;
+    background-color: lightskyblue;
+}
+
+.edit::before, .delete::before {
+    background-size: 32px 32px;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    content:"";
+}
+
+.edit::before {
+     background-image: url('../images/edit.svg');
+ }
+
+.delete::before {
+    background-image: url('../images/delete.svg');
+}
+
+.msg-title {
+    width: 100%;
+    height: 32px;
+}
+
+.msg-title span {
+    height: 32px;
+}
+
+
+
+.emoji {
+    width: 1em;
+    height: 1em;
+    margin-bottom: 0;
+}
+
+#name-input {
+    display: none;
+}
+
+.jemoji-menu {
+    position: relative;
+}
+
+.jemoji-icons {
+    max-height:100px;
+}
+
+.jemoji-icons, .jemoji-info {
+    margin-top: 0!important;
+    position: relative;
+    z-index: 1;
+}
+
+.jemoji-menu-arrow {
+    margin-top: 0!important;
+    position: relative;
+}
+
+#jec {
+    height: 132px;
+}
+

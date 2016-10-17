@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f6dc05f-9287-4e65-95a6-630bd6874168" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/+1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/1234.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/8ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/abc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/abcd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/accept.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/aerial_tramway.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/airplane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/alarm_clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/alien.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ambulance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/angel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/anger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/angry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/anguished.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/aquarius.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/aries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_backward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_double_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_double_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_down_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_forward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_heading_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_heading_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_lower_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_lower_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_right_hook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_up_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_up_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_upper_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrow_upper_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrows_clockwise.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/arrows_counterclockwise.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/art.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/articulated_lorry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/astonished.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/atm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/baby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/baby_bottle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/baby_chick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/baby_symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/baggage_claim.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/balloon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ballot_box_with_check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bamboo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/banana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bangbang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bar_chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/barber.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/baseball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/basketball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bath.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bathtub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/battery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/beer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/beers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/beetle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/beginner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bento.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bicyclist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bike.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bikini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bird.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/birthday.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/black_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/black_joker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/black_medium_small_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/black_medium_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/black_nib.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/black_small_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/black_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/black_square_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/blossom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/blowfish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/blue_book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/blue_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/blue_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/blush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/boar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/boat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bomb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bookmark_tabs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/books.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/boom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/boot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bouquet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bowling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bowtie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/boy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bread.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bride_with_veil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bridge_at_night.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/briefcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/broken_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bullettrain_front.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bullettrain_side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/busstop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/bust_in_silhouette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/busts_in_silhouette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cactus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/calling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/camel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cancer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/candy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/capital_abcd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/capricorn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/card_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/carousel_horse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cat2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/chart_with_downwards_trend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/chart_with_upwards_trend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/checkered_flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cherries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cherry_blossom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/chestnut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/chicken.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/children_crossing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/chocolate_bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/christmas_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/church.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cinema.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/circus_tent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/city_sunrise.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/city_sunset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clapper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock1030.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock1130.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock1230.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock130.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock230.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock330.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock430.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock530.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock630.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock730.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock830.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clock930.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/closed_book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/closed_lock_with_key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/closed_umbrella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/clubs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cocktail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/coffee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cold_sweat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/collision.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/computer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/confetti_ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/confounded.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/confused.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/congratulations.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/construction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/construction_worker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/convenience_store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cookie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/copyright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/corn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/couple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/couple_with_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/couplekiss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/credit_card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/crescent_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/crocodile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/crossed_flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/crown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/crying_cat_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/crystal_ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cupid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/curly_loop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/currency_exchange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/curry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/custard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/customs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/cyclone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dancer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dancers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dango.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/deciduous_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/department_store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/diamond_shape_with_a_dot_inside.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/diamonds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/disappointed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/disappointed_relieved.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dizzy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dizzy_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/do_not_litter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dog2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dollar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dolls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dolphin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/donut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/door.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/doughnut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dragon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dragon_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dromedary_camel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/droplet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/dvd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/e-mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ear_of_rice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/earth_africa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/earth_americas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/earth_asia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/egg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/eggplant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/eight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/eight_pointed_black_star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/eight_spoked_asterisk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/electric_plug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/elephant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/end.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/euro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/european_castle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/european_post_office.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/evergreen_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/expressionless.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/eyeglasses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/eyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/facepunch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/factory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fallen_leaf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/family.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fast_forward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fearful.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/feelsgood.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/feet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ferris_wheel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/file_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/finnadie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fire.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fire_engine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fireworks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/first_quarter_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/first_quarter_moon_with_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fish_cake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fishing_pole_and_fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/five.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/flashlight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/floppy_disk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/flower_playing_cards.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/flushed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/foggy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/football.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fork_and_knife.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fountain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/four.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/four_leaf_clover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/free.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fried_shrimp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/frog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/frowning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/fuelpump.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/full_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/full_moon_with_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/game_die.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/gb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/gem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/gemini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ghost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/gift.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/gift_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/girl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/globe_with_meridians.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/goat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/goberserk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/godmode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/golf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/grapes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/green_apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/green_book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/green_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/grey_exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/grey_question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/grimacing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/grin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/grinning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/guardsman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/gun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/haircut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hamburger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hammer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hamster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/handbag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hankey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hatched_chick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hatching_chick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/headphones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hear_no_evil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heart_decoration.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heart_eyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heart_eyes_cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heartbeat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heartpulse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hearts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heavy_check_mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heavy_division_sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heavy_dollar_sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heavy_exclamation_mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heavy_minus_sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heavy_multiplication_x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/heavy_plus_sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/helicopter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/herb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hibiscus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/high_brightness.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/high_heel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hocho.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/honey_pot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/honeybee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/horse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/horse_racing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hospital.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hotel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hotsprings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hourglass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hourglass_flowing_sand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/house.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/house_with_garden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hurtrealbad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/hushed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ice_cream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/icecream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ideograph_advantage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/imp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/inbox_tray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/incoming_envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/information_desk_person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/information_source.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/innocent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/interrobang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/it.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/izakaya_lantern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/jack_o_lantern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/japan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/japanese_castle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/japanese_goblin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/japanese_ogre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/jeans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/joy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/joy_cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/jp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/keycap_ten.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kimono.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kiss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kissing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kissing_cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kissing_closed_eyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kissing_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kissing_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kissing_smiling_eyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/koala.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/koko.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/kr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/large_blue_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/large_blue_diamond.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/large_orange_diamond.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/last_quarter_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/last_quarter_moon_with_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/laughing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/leaves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ledger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/left_luggage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/left_right_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/leftwards_arrow_with_hook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/leo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/leopard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/libra.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/light_rail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/lips.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/lipstick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/lock_with_ink_pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/lollipop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/loop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/loudspeaker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/love_hotel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/love_letter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/low_brightness.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mag_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mahjong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mailbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mailbox_closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mailbox_with_mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mailbox_with_no_mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/man_with_gua_pi_mao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/man_with_turban.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mans_shoe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/maple_leaf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/massage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/meat_on_bone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mega.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/melon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/memo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mens.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/metal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/metro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/microphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/microscope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/milky_way.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/minibus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/minidisc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mobile_phone_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/money_with_wings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/moneybag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/monkey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/monkey_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/monorail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mortar_board.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mount_fuji.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mountain_bicyclist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mountain_cableway.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mountain_railway.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mouse2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/movie_camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/moyai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/muscle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mushroom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/musical_keyboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/musical_note.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/musical_score.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/mute.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/nail_care.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/name_badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/neckbeard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/necktie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/negative_squared_cross_mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/neutral_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/new_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/new_moon_with_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/newspaper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/nine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_bicycles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_entry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_entry_sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_good.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_mobile_phones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_mouth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_pedestrians.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/no_smoking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/non-potable_water.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/nose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/notebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/notebook_with_decorative_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/nut_and_bolt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/o.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/o2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ocean.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/octocat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/octopus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/oden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/office.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ok_hand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ok_woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/older_man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/older_woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/oncoming_automobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/oncoming_bus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/oncoming_police_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/oncoming_taxi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/open_file_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/open_hands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/open_mouth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ophiuchus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/orange_book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/outbox_tray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/package.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/page_facing_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/page_with_curl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pager.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/palm_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/panda_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/paperclip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/parking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/part_alternation_mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/partly_sunny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/passport_control.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/paw_prints.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/peach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pencil2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/penguin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pensive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/performing_arts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/persevere.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/person_frowning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/person_with_blond_hair.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/person_with_pouting_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pig2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pig_nose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pineapple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pisces.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pizza.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/plus1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/point_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/point_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/point_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/point_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/point_up_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/police_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/poodle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/poop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/post_office.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/postal_horn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/postbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/potable_water.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pouch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/poultry_leg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pound.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pouting_cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/princess.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/punch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/purple_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/purse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/pushpin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/put_litter_in_its_place.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rabbit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rabbit2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/racehorse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/radio_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rage1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rage2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rage3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rage4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/railway_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rainbow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/raised_hand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/raised_hands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/raising_hand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ramen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/recycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/red_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/red_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/registered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/relaxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/relieved.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/repeat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/repeat_one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/restroom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/revolving_hearts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rewind.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ribbon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rice_ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rice_cracker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rice_scene.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ring.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/roller_coaster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rooster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rotating_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/round_pushpin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rowboat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/rugby_football.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/runner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/running.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/running_shirt_with_sash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sagittarius.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sailboat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sandal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/santa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/satellite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/satisfied.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/saxophone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/school.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/school_satchel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/scissors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/scorpius.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/scream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/scream_cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/scroll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/seat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/secret.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/see_no_evil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/seedling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/seven.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/shaved_ice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sheep.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/shell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ship.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/shipit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/shirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/shit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/shoe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/shower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/signal_strength.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/six.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/six_pointed_star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ski.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/skull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sleeping.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sleepy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/slot_machine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/small_blue_diamond.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/small_orange_diamond.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/small_red_triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/small_red_triangle_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/smile_cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/smiley.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/smiley_cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/smiling_imp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/smirk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/smirk_cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/smoking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/snail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/snake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/snowboarder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/snowflake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/snowman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sob.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/soccer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/soon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sound.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/space_invader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/spades.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/spaghetti.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sparkle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sparkler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sparkles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sparkling_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/speak_no_evil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/speaker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/speech_balloon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/speedboat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/squirrel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/star2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/stars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/station.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/statue_of_liberty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/steam_locomotive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/stew.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/straight_ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/strawberry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/stuck_out_tongue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/stuck_out_tongue_closed_eyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/stuck_out_tongue_winking_eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sun_with_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sunflower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sunglasses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sunny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sunrise.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sunrise_over_mountains.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/surfer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sushi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/suspect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/suspension_railway.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sweat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sweat_drops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sweat_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/sweet_potato.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/swimmer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/symbols.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/syringe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tada.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tanabata_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tangerine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/taurus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/taxi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/telephone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/telephone_receiver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/telescope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tennis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/thought_balloon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/three.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/thumbsdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/thumbsup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/ticket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tiger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tiger2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tired_face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/toilet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tokyo_tower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tomato.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tongue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tophat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tractor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/traffic_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/train.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/train2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/triangular_flag_on_post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/triangular_ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/trident.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/triumph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/trolleybus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/trollface.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/trophy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tropical_drink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tropical_fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/truck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/trumpet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tshirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tulip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/turtle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/twisted_rightwards_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/two.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/two_hearts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/two_men_holding_hands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/two_women_holding_hands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u5272.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u5408.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u55b6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u6307.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u6708.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u6709.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u6e80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u7121.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u7533.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u7981.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/u7a7a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/uk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/umbrella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/unamused.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/underage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/unlock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/vertical_traffic_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/vhs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/vibration_mode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/video_camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/video_game.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/violin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/virgo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/volcano.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/vs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/walking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/waning_crescent_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/waning_gibbous_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/watch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/water_buffalo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/watermelon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wave.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wavy_dash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/waxing_crescent_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/waxing_gibbous_moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/weary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wedding.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/whale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/whale2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wheelchair.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/white_check_mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/white_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/white_flower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/white_large_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/white_medium_small_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/white_medium_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/white_small_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/white_square_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wind_chime.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wine_glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wolf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/womans_clothes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/womans_hat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/womens.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/worried.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/wrench.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/yellow_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/yen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/yum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/zap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/zero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/basic/zzz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/sprites/emojify-emoticons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/sprites/emojify-emoticons@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/sprites/emojify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/images/sprites/emojify@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/chat.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/chao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/css/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/basic/emojify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/basic/emojify.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/data-uri/emojify-emoticons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/data-uri/emojify-emoticons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/data-uri/emojify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/data-uri/emojify.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/sprites/emojify-emoticons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/sprites/emojify-emoticons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/sprites/emojify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/css/sprites/emojify.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/js/emojify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/emoji/js/emojify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/images/chat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/images/cross.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/images/delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/images/edit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/images/members.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/js/chat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/js/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/js/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/lib/jemoji/jemoji.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/lib/jemoji/jemoji.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/lib/jemoji/jemoji.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/lib/jemoji/jemoji.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/lib/jquery-3.1.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/spec/js/main_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
+    </list>
+    <ignored path="chat.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="chat" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main_spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/spec/js/main_spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/js/helper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/js/chat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="51" column="54" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/js/view.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="140" column="38" selection-start-line="140" selection-start-column="38" selection-end-line="140" selection-end-column="38" />
+              <folding>
+                <marker date="1476669019000" expanded="true" signature="6606:6618" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/css/core.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="146" column="38" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jemoji.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/lib/jemoji/jemoji.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-905">
+              <caret line="209" column="69" selection-start-line="209" selection-start-column="55" selection-end-line="209" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/app/src/main.js" />
+        <option value="$PROJECT_DIR$/app/src/css/main.css" />
+        <option value="$PROJECT_DIR$/gulpFile.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/src/js/helper.js" />
+        <option value="$PROJECT_DIR$/app/src/spec/js/main_spec.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/src/js/chat.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/src/lib/jemoji/jemoji.js" />
+        <option value="$PROJECT_DIR$/app/src/css/core.css" />
+        <option value="$PROJECT_DIR$/app/src/js/main.js" />
+        <option value="$PROJECT_DIR$/app/src/js/view.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1173" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jemoji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emoji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emoji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emoji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/lib/jemoji" />
+      <recent name="$PROJECT_DIR$/app/src/images" />
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/app/src/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f6dc05f-9287-4e65-95a6-630bd6874168" name="Default" comment="" />
+      <created>1476489942690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476489942690</updated>
+      <workItem from="1476489944219" duration="66724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66724000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16482359" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/lib/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/js/helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="90" selection-start-line="5" selection-start-column="90" selection-end-line="5" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/spec/js/main_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/emoji/js/emojify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/images/members.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/images/chat.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/images/edit.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/images/cross.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/images/delete.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/lib/jemoji/jemoji.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/lib/jemoji/jemoji.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/js/chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="51" column="54" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/lib/jemoji/jemoji.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-905">
+          <caret line="209" column="69" selection-start-line="209" selection-start-column="55" selection-end-line="209" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/css/core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="146" column="38" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/js/view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="140" column="38" selection-start-line="140" selection-start-column="38" selection-end-line="140" selection-end-column="38" />
+          <folding>
+            <marker date="1476669019000" expanded="true" signature="6606:6618" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
