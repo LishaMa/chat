@@ -209,6 +209,7 @@
                     ta.next().children().first().attr('disabled', false);
                 }
                 if (event.which === 13 && value!=='' && window.isEmOpen===ta.jemoji('isOpen')) {
+                    ta.val(value.substr(0,value.length-1));
                     window.view.saveMsg(event);
                 }
             }).jemoji({
