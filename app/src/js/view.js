@@ -168,9 +168,7 @@
                 if (jQuery.contains(document, this.editor[0])) {
                     return;
                 }
-                if (window.innerWidth < 768) {
-                    li[0].scrollIntoView(true);
-                }
+
                 var textArea = this.editor.find('#editor');
                 textArea.val(msg.content);
                 var content = li.children().hide();
@@ -178,6 +176,7 @@
                 this.inputContainer.hide();
                 this.chatContainer.css('padding-bottom', 0);
                 this.mainContainer.css('bottom', '10px');
+                li[0].scrollIntoView(window.innerWidth < 768);
                 textArea.focus();
                 // setTimeout(function () {
                 //     document.getElementById("editor").focus();
