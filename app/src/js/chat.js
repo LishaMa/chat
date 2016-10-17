@@ -36,6 +36,7 @@ window.chat = (function ($) {
     var testUser = /^\w+$/;
 
     return {
+        MSG: Message,
         version: "0.0.1",
         members: null,
         messages: null,
@@ -194,12 +195,14 @@ window.chat = (function ($) {
             );
         },
         postMsg: function(message) {
-            var msg = Message.create(this.id, message);
-            var max = this.validateMembers();
-            if (this.isValidMsg(msg,max)) {
-                this.messages.push(msg);
-                localStorage.setItem("messages", JSON.stringify(this.messages));
-                return this.messages.length;
+            if (typeof message === "string" && message.length>0 ) {
+                var msg = Message.create(this.id, message);
+                var max = this.validateMembers();
+                if (this.isValidMsg(msg,max)) {
+                    this.messages.push(msg);
+                    localStorage.setItem("messages", JSON.stringify(this.messages));
+                    return this.messages.length;
+                }
             }
             return -1;
         },
@@ -253,7 +256,7 @@ window.chat = (function ($) {
         },
         saveMsg: function (msgId, content) {
             var msg = this.canModifyMsg(msgId);
-            if (msg) {
+            if (msg && typeof content === "string" && content.length>0) {
                 msg.content = content;
                 localStorage.setItem("messages", JSON.stringify(this.messages));
                 return msg;
