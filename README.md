@@ -1,9 +1,11 @@
 # chat
-Simple browser based chat app
+Simple browser based chat app with emoji support
+
+Support slack chat like emoji suggestion list
 
 # Instructions
 
-Install nodejs 6.8.0
+Install nodejs 6.x
 
 Install gulp-cli
 
