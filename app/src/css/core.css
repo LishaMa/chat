@@ -68,6 +68,7 @@ body {
 #c-member-container {
     min-width: 240px;
     margin: 5px;
+    font-size: 0.8em;
 }
 
 
@@ -142,6 +143,15 @@ body {
     li:hover .edit, li:hover .delete {
         opacity: 1;
     }
+
+    #cancel, #cancel-change {
+        float: left;
+        margin-left: 10px;
+    }
+
+    #save, #change-name {
+        float: left;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -179,6 +189,18 @@ body {
 
     #user-container .edit {
         margin-right: 25px;
+    }
+
+    #cancel {
+        float: right;
+    }
+
+    #cancel-change {
+        margin-left: 10px;
+    }
+
+    #save, #change-name {
+        float: left;
     }
 }
 
@@ -302,5 +324,40 @@ body {
 
 #jec {
     height: 132px;
+    position: relative;
+}
+
+#jec .jemoji-menu {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto!important;
+}
+
+#sc-container{
+    padding: 0 10px 0 10px;
+    overflow: hidden;
+}
+
+.bgc {
+    overflow: hidden;
+    padding-top: 5px;
+}
+
+.btn {
+    background-color: #55ACEE;
+    border: 1px solid #55ACEE;
+    border-radius: 3px;
+    color: #FFF;
+    padding: 4px 8px;
+    font-size: 0.7em;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn:disabled {
+    background: grey;
 }
 

@@ -1,9 +1,12 @@
 describe("Chat Spec", function() {
     var foo = 1;
     beforeEach(function() {
+        jasmine.getFixtures().fixturesPath = ".";  // path to your templates
+        jasmine.getFixtures().load('tpl.html');   // load a template
         sessionStorage.clear();
         localStorage.clear();
         chat.signOn();
+        view.setupView();
     });
 
     afterEach(function() {
@@ -16,6 +19,9 @@ describe("Chat Spec", function() {
 
     it("Length of user name should be greater than 4.", function() {
         expect(chat.user.length).toBeGreaterThan(4);
+    });
+    it("user input should be empty.", function() {
+        expect($("#user-input")).toBeEmpty();
     });
 
     describe("nested inside a second describe", function() {

@@ -33,12 +33,11 @@
             }, 0);
         },
         populateMembers: function () {
+            this.updateMemberStyles();
             var members = this.chat.members;
-            var styles = '';
             var ul = '<ul>';
             var user;
             for (var i=0; i<members.length; i++) {
-                styles = styles + '.cu' + i + '::before {content:"' + members[i] + '"}\n';
                 if (i===this.chat.id) {
                     user = this.buildUser(i, members[i]);
                     continue;
@@ -46,17 +45,42 @@
                 ul = ul + '<li><span class="user-name cu' + i + '"></span></li>';
             }
             ul = ul + '</ul>';
-            this.memberList.html(styles);
             this.memberContainer.html(ul).find('ul').prepend(user);
+        },
+        addNewMember: function () {
+            var i = this.chat.members.length - 1;
+            var li = $('<li><span class="user-name cu' + i + '"></span></li>');
+            this.memberContainer.find('ul').append(li);
+            this.updateMemberStyles();
+        },
+        updateMsg: function (i) {
+            var id = "#msg-"+i;
+            var orginalMsg = $(id);
+            var msg = this.chat.messages[i];
+            if (msg.deleted) {
+                orginalMsg.remove();
+                return;
+            }
+            var newMsg = $(this.buildMsgView(i, msg, msg.id===this.chat.id));
+            emojify.run(newMsg[0]);
+            orginalMsg.replaceWith(newMsg);
+        },
+        updateMemberStyles: function () {
+            var members = this.chat.members;
+            var styles = '';
+            for (var i=0; i<members.length; i++) {
+                styles = styles + '.cu' + i + '::before {content:"' + members[i] + '"}\n';
+            }
+            this.memberList.html(styles);
         },
         buildUser: function (id, name) {
             var li = $('<li><div id="user-container"><div><span>You:</span></div>' +
                 '<div><span class="user-name cu' +
                 id + '"></span><span class="edit"></span></div></div>' +
                 '<div id="name-input">' +
-                '<div><button id="change-name">Change</button>' +
-                '<button id="cancel-change">Cancel</button></div>' +
                 '<input id="name-field" minlength="5" maxlength="20" />' +
+                '<div class="bgc"><button id="change-name" class="btn">Change</button>' +
+                '<button id="cancel-change" class="btn">Cancel</button></div>' +
                 '</div></li>');
             var nameInput = li.find('#name-input');
             nameInput.on("click", "#cancel-change", function (event) {
@@ -68,9 +92,9 @@
                 var value = ta.val();
                 if (value.length>4 && window.chat.isValidUser(value) &&
                     (value === window.chat.user || window.chat.getUserId(value) === -1)){
-                    ta.prev().children().first().attr('disabled', false);
+                    ta.next().children().first().attr('disabled', false);
                 } else {
-                    ta.prev().children().first().attr('disabled', true);
+                    ta.next().children().first().attr('disabled', true);
                 }
             });
             li.on("click", '.edit', function (event) {
@@ -94,13 +118,14 @@
             var li = $(event.target).closest('li');
             var value = li.find("#name-field").val();
             if (value === this.chat.user) {
-                this.cancelChangeName();
+                this.cancelChangeName(event);
             }
             if (this.chat.changeUserName(value)) {
                 //restore state
-                this.populateMembers();
+                this.updateMemberStyles();
+                this.cancelChangeName(event);
             } else {
-                this.cancelChangeName();
+                this.cancelChangeName(event);
             }
         },
         populateMsgList: function () {
@@ -143,24 +168,30 @@
                 if (jQuery.contains(document, this.editor[0])) {
                     return;
                 }
+                if (window.innerWidth < 768) {
+                    li[0].scrollIntoView(true);
+                }
                 var textArea = this.editor.find('#editor');
                 textArea.val(msg.content);
                 var content = li.children().hide();
                 li.append(this.editor);
                 this.inputContainer.hide();
                 this.chatContainer.css('padding-bottom', 0);
-                li[0].scrollIntoView(false);
-                setTimeout(function () {
-                    $('#editor').focus();
-                },0);
+                this.mainContainer.css('bottom', '10px');
+                textArea.focus();
+                // setTimeout(function () {
+                //     document.getElementById("editor").focus();
+                // },500);
             }
         },
         buildEditor: function () {
-            var ed = '<div><div id="jec"></div><div><button id="save">Save</button>' +
-                '<button id="cancel">Cancel</button></div>' +
+            var ed = '<div><div id="jec"></div>' +
                 '<textarea style="width: 100%;" rows="2" id="editor" ' +
                 'placeholder="Enter your message."' +
-                ' maxlength="200"></textarea></div>';
+                ' maxlength="200"></textarea>' +
+                '<div id="sc-container"><button id="save" class="btn">Save</button>' +
+                '<button id="cancel" class="btn">Cancel</button></div>' +
+                '</div>';
             this.editor = $(ed).on('click', '#save', function (event) {
                 window.view.saveMsg(event);
             }).on('click', '#cancel', function (event) {
@@ -168,13 +199,16 @@
             });
             this.editor.find("#editor").on('keydown', function (event) {
                 var ta = $(event.target);
+                window.isEmOpen = ta.jemoji('isOpen');
+            }).on('keyup', function (event) {
+                var ta = $(event.target);
                 var value = ta.val();
                 if (value===''){
-                    ta.prev().children().first().attr('disabled', true);
+                    ta.next().children().first().attr('disabled', true);
                 } else {
-                    ta.prev().children().first().attr('disabled', false);
+                    ta.next().children().first().attr('disabled', false);
                 }
-                if (event.which === 13 && value!=='' && !ta.jemoji('isOpen')) {
+                if (event.which === 13 && value!=='' && window.isEmOpen===ta.jemoji('isOpen')) {
                     window.view.saveMsg(event);
                 }
             }).jemoji({
@@ -192,6 +226,7 @@
                 var msgId = parseInt(li.attr('id').split('-')[1]);
                 var msg = this.chat.saveMsg(msgId, content);
                 if (msg) {
+                    textArea.blur();
                     var newLi = $.parseHTML(this.buildMsgView(msgId, msg, true));
                     this.cancelEditing();
                     li.replaceWith(newLi);
@@ -206,6 +241,7 @@
             li.children().show();
             this.inputContainer.show();
             this.chatContainer.css('padding-bottom', '');
+            this.mainContainer.css('bottom', '');
         },
         buildMsgView: function (index, msg, isOwner) {
             var time = new Date(msg.ms);
@@ -236,6 +272,7 @@
             if (this.cTextBox.jemoji('isOpen')) {
                 return;
             }
+            event.preventDefault();
             var text = this.cTextBox.val();
             if (typeof text === "string" && text.length>0 ) {
                 var length = this.chat.postMsg(text);

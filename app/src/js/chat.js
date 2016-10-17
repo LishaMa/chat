@@ -9,11 +9,28 @@ window.chat = (function ($) {
             deleted: false
         };
     }
+    Message.isValid = function(msg) {
+        return (msg && typeof msg === "object" &&
+            Number.isInteger(msg.id) &&
+            msg.id>-1 &&
+            typeof msg.content === "string" &&
+            Number.isInteger(msg.ms) && msg.ms>0
+        );
+    };
     Message.create = function(id, msg) {
         if (Number.isInteger(id) && id>=0 && typeof msg === "string" && msg.length > 0) {
             return new Message(id, msg);
         } else {
             return null;
+        }
+    };
+    Message.compare = function(msg1, msg2) {
+        if (Message.isValid(msg1) && Message.isValid(msg2)) {
+            return (msg1.id === msg2.id &&
+                    msg1.content === msg2.content &&
+                    msg1.ms === msg2.ms &&
+                    msg1.deleted === msg2.deleted
+            );
         }
     };
     var testUser = /^\w+$/;
@@ -30,7 +47,22 @@ window.chat = (function ($) {
             this.updateMessages();
             this.setUpWatcher();
         },
-        updateMembers: function () {
+        updateMembers: function (newValue) {
+            if (newValue && this.members) {
+                var newMembers = JSON.parse(newValue);
+                if (this.isValidMembers(newMembers)) {
+                    if (newMembers.length === this.members.length) {
+                        this.members = newMembers;
+                        window.view.updateMemberStyles();
+                    } else if (newMembers.length === (this.members.length + 1)) {
+                        this.members.push(newMembers.pop());
+                        window.view.addNewMember();
+                    } else {
+                        console.log("Should not happen");
+                    }
+                    return;
+                }
+            }
             var members = JSON.parse(localStorage.getItem("members"));
             if (this.isValidMembers(members)) {
                 this.members = members;
@@ -99,7 +131,28 @@ window.chat = (function ($) {
             }
             return false;
         },
-        updateMessages: function () {
+        updateMessages: function (newValue) {
+            if (newValue && this.messages) {
+                var newMessages = JSON.parse(newValue);
+                if (this.isValidMessages(newMessages)) {
+                    if (newMessages.length === this.messages.length) {
+                        for (var i=0; i<newMessages.length; i++) {
+                            if (!Message.compare(newMessages[i], this.messages[i])) {
+                                var newMsg = newMessages[i];
+                                this.messages[i] = newMsg;
+                                window.view.updateMsg(i);
+                            }
+                        }
+                    } else if (newMessages.length === (this.messages.length + 1)) {
+                        var newMsg = newMessages.pop();
+                        this.messages.push(newMsg);
+                        window.view.appendMsg(this.messages.length-1, newMsg);
+                    } else {
+                        console.log("Should not happen");
+                    }
+                    return;
+                }
+            }
             var messages = JSON.parse(localStorage.getItem("messages"));
             if (this.isValidMessages(messages)) {
                 this.messages = messages;
@@ -164,11 +217,9 @@ window.chat = (function ($) {
         },
         updateFromLocalStorage: function (key, newValue, oldValue) {
             if (key==="members") {
-                this.updateMembers();
-                window.view.populateMembers();
+                this.updateMembers(newValue);
             } else if (key==="messages") {
-                this.updateMessages();
-                window.view.populateMsgList();
+                this.updateMessages(newValue);
             } else if (typeof key === "string" && key.length>0) {
                 //Unknown case
                 console.log("Unknown key: " + key);
